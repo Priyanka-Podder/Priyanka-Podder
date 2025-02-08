@@ -6,7 +6,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="Priyanka Podder" height="400" />
 
 <h4>
-  I am pursuing B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence 🎓.<br />
+  Pursuing B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence 🎓.<br />
   I am a curious learner who possess an unwavering zeal to explore different domains of technology and gain mastery in them. 
 </h4>
 
@@ -67,12 +67,10 @@
 <a href="#" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </a>
-
-<br> <br>
   
-  <p align="left">
+   <!--<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka-podder&show_icons=true&locale=en&layout=compact" alt="Priyanka Podder's Top Languages" />
-</p>
+</p>-->
 
  <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanka-podder&show_icons=true&locale=en" alt="priyanka-podder" /></p>-->
 
