@@ -3,10 +3,6 @@
   <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px" />
 </h1>
 
-<h1 align="center">
-     <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&color=6495ED&lines=Hi+There!+👋;+I'm+Priyanka;Welcome to my profile+💻;" />
-</h1>
-
 <img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="Priyanka Podder" height="400" />
 
 <h4>
@@ -72,12 +68,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </a>
 
-<br> 
+<br> <br>
   
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka-podder&show_icons=true&locale=en&layout=compact" alt="Priyanka Podder's Top Languages" />
 </p>
-
 
  <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanka-podder&show_icons=true&locale=en" alt="priyanka-podder" /></p>-->
 
