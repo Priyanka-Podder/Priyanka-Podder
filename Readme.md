@@ -4,7 +4,7 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Welcome+to+my+profile+💻&center=true&size=30&color=6495ED">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;_Welcome+to+my+profile+💻&center=true&size=30&color=6495ED">
 </h1>
 
 <img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="Priyanka Podder" height="400" />
