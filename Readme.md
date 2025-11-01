@@ -26,7 +26,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technical Skills:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/>
@@ -81,6 +81,7 @@
  <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-podder&" alt="priyanka-podder" /></p> -->
 </p>
 <br><br>
+
 
 
 
