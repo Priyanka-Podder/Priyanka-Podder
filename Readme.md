@@ -11,7 +11,7 @@
 
 <h4>
   Pursuing B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence 🎓.<br />
-  I am a curious learner who possess an unwavering zeal to explore different domains of technology and gain mastery in them. 
+  I would describe myself as a passionate learner who enjoys to explore various domains of technology with a curious mind and strives to achieve mastery in them.
 </h4>
 
 <p align="left">
@@ -81,6 +81,7 @@
  <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-podder&" alt="priyanka-podder" /></p> -->
 </p>
 <br><br>
+
 
 
 
