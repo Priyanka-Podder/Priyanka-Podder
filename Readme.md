@@ -22,7 +22,7 @@
   
 &emsp;<a href="https://www.linkedin.com/in/priyanka-podder-638a83223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>&emsp;<a href="https://github.com/Priyanka-Podder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Priyanka Podder" height="40" width="40" /></a>
 <h3 align="left">I'm currently diving deeper into:</h3>
-<p>• Enhancing my problem-solving skills in Data Structures and Algorithms
+<p>• Enhancing my problem-solving and analytical skills in Data Structures and Algorithms
 <br> • Improving my proficiency in full-stack development
 </p>
 
