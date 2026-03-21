@@ -1,26 +1,27 @@
 <h1 align="left">
-  Hello, I'm Priyanka 
-  <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px" />
+  Hello, I'm Priyanka 👋
+  <!-- <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px" /> -->
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+✨;_Welcome+to+my+profile+💻&center=true&size=30&color=6495ED">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning...;Exploring...;Developing...&center=true&size=30&color=6495ED">
 </h1>
 
-<img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="Priyanka Podder" height="400" />
+
+
+<img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="Priyanka Podder" height="400" /> 
 
 <h4>
-  Pursuing B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence 🎓.<br />
+  Pursuing B.Tech in Computer Science and Engineering, with a focus on the fundamentals of Artificial Intelligence.<br />
   I would describe myself as a passionate learner who enjoys to explore various domains of technology with a curious mind and strives to achieve mastery in them.
 </h4>
 
 <p align="left">
-  <h3 align="left"> 🔵 You can find me here 👇 <br><br>
+  <h3 align="left">Connect with me here: <br><br>
   
   
-&emsp;&emsp;<a href="https://www.linkedin.com/in/priyanka-podder-638a83223/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="30" width="30" /></a>
-&emsp;<a href="https://github.com/Priyanka-Podder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Priyanka Podder" height="30" width="40" /></a>
-<h3 align="left">🔵 I'm currently diving deeper into:</h3>
+&emsp;<a href="https://www.linkedin.com/in/priyanka-podder-638a83223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>&emsp;<a href="https://github.com/Priyanka-Podder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Priyanka Podder" height="40" width="40" /></a>
+<h3 align="left">I'm currently diving deeper into:</h3>
 <p>• Enhancing my problem-solving skills in Data Structures and Algorithms
 <br> • Improving my proficiency in full-stack development
 </p>
