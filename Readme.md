@@ -11,20 +11,22 @@
 
 <!-- <img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="Priyanka Podder" height="400" />  -->
 
-<h4>
+<p>
   🎓  I am currently pursuing Bachelor of Technology in Computer Science and Engineering, with a focus on the fundamentals of Artificial Intelligence.<br />
   👨‍💻  I would describe myself as a passionate learner who enjoys to explore various domains of technology with a curious mind and strives to achieve mastery in them.
-</h4>
+</p>
+
+<h3 align="left">I'm currently diving deeper into:</h3>
+<p>• Enhancing my problem-solving and analytical skills in Data Structures and Algorithms
+<br> • Improving my proficiency in full-stack development
+</p>
 
 <p align="left">
   <h3 align="left">Connect with me here: <br><br>
   
   
 &emsp;<a href="https://www.linkedin.com/in/priyanka-podder-638a83223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>&emsp;<a href="https://github.com/Priyanka-Podder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Priyanka Podder" height="40" width="40" /></a>
-<h3 align="left">I'm currently diving deeper into:</h3>
-<p>• Enhancing my problem-solving and analytical skills in Data Structures and Algorithms
-<br> • Improving my proficiency in full-stack development
-</p>
+
 
 
 <h3 align="left">Technical Skills:</h3>
