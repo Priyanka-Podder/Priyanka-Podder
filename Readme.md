@@ -13,7 +13,7 @@
 
 <p>
   🎓  I am currently pursuing Bachelor of Technology in Computer Science and Engineering, with a focus on Artificial Intelligence.<br />
-  👨‍💻  I would describe myself as a passionate learner who enjoys to explore various domains of technology with a curious mind and strives to achieve mastery in them.
+  👩‍💻  I would describe myself as a passionate learner who enjoys to explore various domains of technology with a curious mind and strives to achieve mastery in them.
 </p>
 
 <h3 align="left">I'm currently diving deeper into:</h3>
