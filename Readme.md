@@ -12,7 +12,7 @@
 <!-- <img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="Priyanka Podder" height="400" />  -->
 
 <p>
-  🎓  I am currently pursuing Bachelor of Technology in Computer Science and Engineering, with a focus on the fundamentals of Artificial Intelligence.<br />
+  🎓  I am currently pursuing Bachelor of Technology in Computer Science and Engineering, with a focus on Artificial Intelligence.<br />
   👨‍💻  I would describe myself as a passionate learner who enjoys to explore various domains of technology with a curious mind and strives to achieve mastery in them.
 </p>
 
