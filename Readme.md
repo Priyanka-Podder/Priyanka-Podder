@@ -4,16 +4,16 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning...;Exploring...;Developing...&center=true&size=30&color=6495ED">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning...;Exploring...;Developing...&center=true&size=26&color=6495ED">
 </h1>
 
 
 
-<img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="Priyanka Podder" height="400" /> 
+<!-- <img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="Priyanka Podder" height="400" />  -->
 
 <h4>
-  Pursuing B.Tech in Computer Science and Engineering, with a focus on the fundamentals of Artificial Intelligence.<br />
-  I would describe myself as a passionate learner who enjoys to explore various domains of technology with a curious mind and strives to achieve mastery in them.
+  🎓 Pursuing Bachelor of Technology in Computer Science and Engineering, with a focus on the fundamentals of Artificial Intelligence.<br />
+  👨‍💻I would describe myself as a passionate learner who enjoys to explore various domains of technology with a curious mind and strives to achieve mastery in them.
 </h4>
 
 <p align="left">
@@ -81,7 +81,9 @@
 
  <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-podder&" alt="priyanka-podder" /></p> -->
 </p>
-<br><br>
+<h4>
+  📌 Some of my recent projects are available in the pinned repositories.
+</h4>
 
 
 
