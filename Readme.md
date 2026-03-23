@@ -9,7 +9,7 @@
 
 
 
-<!-- <img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="Priyanka Podder" height="400" />  -->
+<img align="right" width="400"  src="img.png" alt="Priyanka Podder"/>  
 
 <p>
   🎓  I am currently pursuing Bachelor of Technology in Computer Science and Engineering, with a focus on Artificial Intelligence.<br />
