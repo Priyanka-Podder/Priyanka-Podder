@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me here:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/priyanka-podder-638a83223/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/></a>
+  <a href="https://www.linkedin.com/in/priyanka-podder-638a83223/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32"/></a>
   &nbsp;
   <a href="https://github.com/Priyanka-Podder" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="35"/></a>
 </p>
@@ -33,7 +33,7 @@
 <h3 align="left">Technical Skills:</h3>
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
